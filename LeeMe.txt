@@ -1,0 +1,24 @@
+Este programa permite registrar libros en una base de datos utilizando PHP y MySQL (phpMyAdmin). Los usuarios pueden ingresar información del libro, incluyendo nombre, autor y año de publicación a través de un formulario web.
+
+Funcionamiento:
+Interfaz de Usuario (HTML + CSS + Bootstrap)
+
+Se muestra un formulario donde los usuarios pueden ingresar los datos del libro.
+Botón para enviar la información al servidor.
+Procesamiento en el Servidor (PHP + MySQL)
+
+Al enviar el formulario, los datos se envían a un script PHP.
+El script PHP recibe los datos, los valida y los inserta en la base de datos.
+La base de datos está alojada en phpMyAdmin, donde se almacena la información.
+Base de Datos (MySQL)
+
+Se crea una tabla llamada libros con las columnas: id, nombre, autor, año.
+Cada vez que se registra un libro, se guarda como un nuevo registro en la tabla.
+Consulta y Visualización
+
+Se pueden mostrar los libros registrados en una tabla con PHP y consultas SQL.
+Opcionalmente, se pueden agregar funciones para editar o eliminar registros.
+Tecnologías Utilizadas:
+✅ HTML, CSS (Bootstrap) – Para la interfaz de usuario.
+✅ PHP – Para procesar los datos del formulario y conectarse a la base de datos.
+✅ MySQL (phpMyAdmin) – Para almacenar los datos de los libros.
