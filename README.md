@@ -48,7 +48,8 @@ Este documento explica cómo instalar y configurar correctamente la librería en
    - `configurar/` - Configuración del sistema.
    - `editar/` - Módulo de edición.
    - `estilos/` - Archivos CSS para la interfaz.
-   ├── app/            # Lógica de la aplicación
+   
+├── app/            # Lógica de la aplicación
 ├── public/         # Archivos accesibles públicamente
 ├── index.php       # Punto de entrada principal
 ├── agregar/        # Módulo de adición
