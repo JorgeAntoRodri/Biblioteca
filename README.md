@@ -50,14 +50,23 @@ Este documento explica cómo instalar y configurar correctamente la librería en
    - `estilos/` - Archivos CSS para la interfaz.
    
 ├── app/            # Lógica de la aplicación
+
 ├── public/         # Archivos accesibles públicamente
+
 ├── index.php       # Punto de entrada principal
+
 ├── agregar/        # Módulo de adición
+
 ├── eliminar/       # Módulo de eliminación
+
 ├── configurar/     # Archivos de configuración
+
 ├── editar/         # Módulo de edición
+
 ├── estilos/        # Archivos CSS
+
 └── README.md       # Documentación
+
 
 ## Solución de Problemas
 - **Apache o MySQL no inician**: Asegúrese de que ningún otro programa esté utilizando los puertos 80 o 3306.
