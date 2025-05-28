@@ -84,7 +84,6 @@ destacando su importancia y contenido recomendado. https://libraries.ou.edu/cont
 para un editor de texto simple implementado en Java, alojado en GitHub https://github.com/shurcooL-legacy/Simple-Text-Editor/blob/master/readme.txt?utm_source=chatgpt.com
 
 ABOUT US
-"¡Hola! Somos Jorge, Marcelo y Jonathan somos un equipo de desarrolladores apasionados que hemos creado un proyecto para ayudarte a instalar y configurar una librería utilizando XAMPP. 
-Nuestro objetivo es hacer que el proceso sea lo más fácil y accesible posible, derivado a eso nosotros creamos un crud en el cual nosotros pusimos las funciones basicas de una libreria 
+"¡Hola! Soy Jorge Antonio Rodríguez Rodríguez soy estudiante de la carrera de Ing. Sistemas Computacionales, he creado un proyecto para ayudarte a instalar y configurar una librería utilizando XAMPP. 
+El objetivo es hacer que el proceso sea lo más fácil y accesible posible, derivado a eso he creado un crud en el cual coloque las funciones basicas de una libreria 
 donde podiamos agregar. eliminar, editar y todo esto se reflejaba en una base de datos en phpmyadmin.
-Nuestro equipo ha trabajado juntos para crear una guía detallada y fácil de seguir, y estamos emocionados de compartir nuestro trabajo contigo."
